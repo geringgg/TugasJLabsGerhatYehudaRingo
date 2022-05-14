@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12734" started-at="2022-05-13T17:23:33Z" finished-at="2022-05-13T17:23:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12734" started-at="2022-05-13T17:23:33Z" finished-at="2022-05-13T17:23:46Z">
+      <class name="com.TugasEmpat.AppTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.TugasEmpat.AppTest@318ba8c8]" name="setUp" is-config="true" duration-ms="8227" started-at="2022-05-13T17:23:33Z" finished-at="2022-05-13T17:23:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="GetMailText()[pri:0, instance:com.TugasEmpat.AppTest@318ba8c8]" name="GetMailText" duration-ms="3607" started-at="2022-05-13T17:23:41Z" finished-at="2022-05-13T17:23:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetMailText -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.TugasEmpat.AppTest@318ba8c8]" name="cleanUp" is-config="true" duration-ms="728" started-at="2022-05-13T17:23:45Z" finished-at="2022-05-13T17:23:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.TugasEmpat.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

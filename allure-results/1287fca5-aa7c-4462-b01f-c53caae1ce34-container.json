@@ -1,0 +1,1 @@
+{"uuid":"1287fca5-aa7c-4462-b01f-c53caae1ce34","name":"com.TugasTiga.BaseWebTest.setUp","description":"","start":1652098916166,"stop":1652098923350,"children":["78a94b9c-4f54-4413-ae43-8d215832d159"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1652098916166,"stop":1652098923350}]}

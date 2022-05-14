@@ -1,0 +1,13 @@
+qaautomation\march2022\App.class
+qaautomation\march2022\pages\TugasTigaYopmail.class
+qaautomation\march2022\pages\ProfilePages.class
+qaautomation\march2022\utils\TestUtility.class
+qaautomation\march2022\pages\CommonPage.class
+qaautomation\march2022\pages\BasePages.class
+qaautomation\march2022\utils\DataUtility.class
+qaautomation\march2022\pages\ProfilePageFactory.class
+qaautomation\march2022\utils\GraphQLRequestBuilder.class
+qaautomation\march2022\pages\LoginPageFactory.class
+qaautomation\march2022\pages\LoginPages.class
+qaautomation\march2022\pages\TugasTigaBasePages.class
+qaautomation\march2022\pages\BasePagesFactory.class

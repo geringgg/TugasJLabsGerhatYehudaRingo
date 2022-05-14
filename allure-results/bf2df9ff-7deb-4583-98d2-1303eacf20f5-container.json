@@ -1,0 +1,1 @@
+{"uuid":"bf2df9ff-7deb-4583-98d2-1303eacf20f5","name":"com.TugasEmpat.BaseWebTest.setUp","description":"","start":1652099244526,"stop":1652099250549,"children":["cc69f878-d874-44b5-bfac-391fc96974b3"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1652099244527,"stop":1652099250549}]}

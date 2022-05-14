@@ -1,0 +1,1 @@
+{"uuid":"1860c443-fb3c-49f7-86b5-86e2c2d6c312","name":"com.TugasEmpat.BaseWebTest.cleanUp","description":"","start":1652099482461,"stop":1652099488161,"children":["1e930fdc-cf66-4f8a-ac36-3c967ffeda40"],"afters":[{"name":"cleanUp","status":"passed","stage":"finished","description":"","start":1652099482461,"stop":1652099488161}]}
